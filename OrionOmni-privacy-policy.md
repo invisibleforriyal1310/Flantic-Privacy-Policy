@@ -1,5 +1,5 @@
-## **Rapid's Privacy Policy**
-### By using Rapid you accept with its privacy policy.
+## **OrionOmni's Privacy Policy**
+### By using OrionOmni you accept with its privacy policy.
 
 ## 1. What does it store?
 
@@ -28,8 +28,8 @@
 ## 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following things:
-- Join our [Support Server](https://dsc.gg/infinityhq) on discord
-- Contact [~ Arypton_xD](https://dsc.gg/infinityhq) on discord [discord.gg/eternity](https://dsc.gg/infinityhq)
+- Join our [Support Server](https://discord.gg/repturebot) on discord
+- Contact [async.def_invisible](https://dsc.gg/infinityhq) on discord [discord.gg/eternity](https://discord.gg/repturebot)
 
 ## 6. How can we delete our entire data?
 
