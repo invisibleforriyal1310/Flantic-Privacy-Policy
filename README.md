@@ -1,1 +1,1 @@
-# Rapid-Privacy-Policy
+# OrionOmni-Privacy-Policy
