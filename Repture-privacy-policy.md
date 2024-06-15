@@ -1,4 +1,4 @@
-## **OrionOmni's Privacy Policy**
+## **Repture's Privacy Policy**
 ### By using OrionOmni you accept with its privacy policy.
 
 ## 1. What does it store?
@@ -29,7 +29,7 @@
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/repturebot) on discord
-- Contact [async.def_invisible](https://dsc.gg/infinityhq) on discord [discord.gg/eternity](https://discord.gg/repturebot)
+- Contact [async.def_invisible](https://invisible-real.xyz/) on discord [discord.gg/eternity](https://discord.gg/repturebot)
 
 ## 6. How can we delete our entire data?
 
