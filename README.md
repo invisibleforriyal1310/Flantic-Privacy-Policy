@@ -1,1 +1,1 @@
-# Mysty-Privacy-Policy
+# Flantic-Prime-Privacy-Policy
