@@ -1,1 +1,1 @@
-# Flantic-Prime-Privacy-Policy
+# Repture-Privacy-Policy
