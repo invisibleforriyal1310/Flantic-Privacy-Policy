@@ -1,1 +1,1 @@
-# Repture-Privacy-Policy
+# Shiba-Privacy-Policy
