@@ -1,1 +1,1 @@
-# Shiba-Privacy-Policy
+# Moosic-Privacy-Policy
