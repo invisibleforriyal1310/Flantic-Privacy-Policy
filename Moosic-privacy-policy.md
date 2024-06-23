@@ -1,4 +1,4 @@
-## **Shiba's Privacy Policy**
+## **Moosic's Privacy Policy**
 ### By using OrionOmni you accept with its privacy policy.
 
 ## 1. What does it store?
